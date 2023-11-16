@@ -1,0 +1,29 @@
+.cleartext {
+    background-color: aqua;
+    color: rgb(0, 60, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.changeinput {
+    background-color: aqua;
+    color: rgb(0, 60, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hideshow {
+    background-color: aqua;
+    color: rgb(0, 60, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.stop {
+    background-color: red;
+    color: rgb(8, 32, 110);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.go {
+    background-color: gold;
+    color: rgb(0, 60, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
